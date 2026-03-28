@@ -6,10 +6,10 @@ Me chamo Gabriel, atualmente com 19 anos e sou de São Luis - MA. Tnho bastante 
 ---
 ## ⚙️linguagens e ferramentas
 <img
-  ilign="left"
-  alt="Python"
-  title="Python"
-  width="30px"
-  stily="padding-right: 10px;"
-  src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />"
+    ilign="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    stily="padding-right: 10px;"
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />"
 ---
