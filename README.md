@@ -15,5 +15,3 @@ Me chamo Gabriel, atualmente com 19 anos e sou de São Luis - MA. Tnho bastante 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
 />
-
----
