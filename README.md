@@ -2,7 +2,9 @@
 ---
 **`Programador Júnior`**   
 "Hello World" 👋   
-Me chamo Gabriel, atualmente com 19 anos e sou de São Luis - MA. Tnho bastante vondade de crescer no mundo da programação, desenvolvi alguns projetos pessoais e academicos que trabalham fluxo de dados, busco oportunidade para aperfeiçoar meus conhecimentos e garantir expreriência, posto alguns projetos no meu perfil do [linkedin](https://www.linkedin.com/in/gabrielassuncaobr/), fique a vontade para dar uma olhada.  
+Me chamo Gabriel, tenho 19 anos e sou de São Luís - MA. Tenho grande interesse em crescer na área de programação e venho desenvolvendo projetos pessoais e acadêmicos voltados ao processamento e fluxo de dados.
+Busco uma oportunidade para aprimorar meus conhecimentos, adquirir experiência prática e contribuir com soluções eficientes.
+Compartilho alguns dos meus projetos no meu perfil do [LinkedIn](https://www.linkedin.com/in/gabrielassuncaobr/). Fique à vontade para conhecer meu trabalho.
 
 ---
 
