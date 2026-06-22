@@ -17,3 +17,27 @@ Compartilho alguns dos meus projetos no meu perfil do [LinkedIn](https://www.lin
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" 
 />
+<img 
+    align="left" 
+    alt="My SQL"
+    title="My SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Excel"
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" 
+/>
