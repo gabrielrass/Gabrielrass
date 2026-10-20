@@ -47,6 +47,6 @@ Compartilho alguns dos meus projetos no meu perfil do [LinkedIn](https://www.lin
     title="PawerBI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d7889c12-8936-426c-9cfa-1b6f9d04519b" />
-" 
+    src="![Uploading image.png…]()
+"
 />
