@@ -48,5 +48,4 @@ Compartilho alguns dos meus projetos no meu perfil do [LinkedIn](https://www.lin
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
-"
 />
